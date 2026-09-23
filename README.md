@@ -1,6 +1,8 @@
 # **Logesh T**
 A Computer Science and Design student open to Software Engineering (SE), Software Development Engineer (SDE), and Cloud & DevOps roles.
 
+# [Live](https://logesht.vercel.app/)
+
 ---
 
 ## Features
